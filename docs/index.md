@@ -10,7 +10,7 @@ hero:
   tagline: 欢迎光临.
   actions:
     - theme: brand
-      text: 开始使用
+      text: 开始
       link: /guide/
     - theme: alt
       text: GitHub

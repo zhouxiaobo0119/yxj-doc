@@ -17,13 +17,11 @@ export default {
 
 
         nav: [
-            { text: '菜单1', link: '/menu1/', activeMatch: '/menu1/' },
-            { text: '菜单2', link: '/menu2/', activeMatch: '/menu2/' },
-            { text: '菜单3', link: '/menu3/', activeMatch: '/menu3/' },
+            { text: '开始', link: '/guide/', activeMatch: '/guide/' },
         ],
 
         sidebar: {
-            // '/guide/': guide,
+            '/guide/': guide,
             '/sa/': sa,
             '/yxj-app/': yxjApp,
             '/tp/': tp,
